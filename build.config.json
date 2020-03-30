@@ -1,0 +1,13 @@
+{
+  "toolsVersions": {
+    "gradle": "5.4.1",
+    "androidGradlePlugin": "3.5.1",
+    "compileSdk": 28,
+    "buildTools": "28.0.3",
+    "minSdk": 18,
+    "targetSdk": 28
+  },
+  "additionalAppDependencies": [
+    "com.google.android.material:material:1.0.0"
+  ]
+}
