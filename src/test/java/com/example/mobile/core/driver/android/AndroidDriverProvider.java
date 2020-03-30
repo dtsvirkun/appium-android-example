@@ -33,7 +33,7 @@ public class AndroidDriverProvider implements WebDriverProvider {
     }
 
     private File downloadApk() {
-        File apk = new File("../../test/example-ui/android/app/build/outputs/apk/debug/app-debug.apk");
+        File apk = new File("../rn-app/android/app/build/outputs/apk/debug/app-debug.apk");
         return apk;
     }
 }
